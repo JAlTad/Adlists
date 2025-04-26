@@ -2,9 +2,10 @@
 ## You are welcome to copy, redistibute, remix, transform and build upon this content
 ## You must give appropriate credit and indicate if changes were made
 
-0.0.0.0  cdn.creative-stat1.com
-0.0.0.0  steadychainconnection.co.in
-0.0.0.0  interlik.co.in
+0.0.0.0 cdn.creative-stat1.com
+0.0.0.0 steadychainconnection.co.in
+0.0.0.0 interlik.co.in
+0.0.0.0 shotgunchancecruel.com
 
 ## Ads ##
 0.0.0.0	yt.moatads.com
