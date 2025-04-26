@@ -45,8 +45,8 @@
 0.0.0.0	ads-eu.amillionads.com
 0.0.0.0	ad.mopub.com
 0.0.0.0	engine.fyber.com
-0.0.0.0	
-0.0.0.0	# Cydia/Bigboss
+
+# Cydia/Bigboss
 0.0.0.0	quantummetric.com
 0.0.0.0	cydia.saurik.com.cdngc.net
 
