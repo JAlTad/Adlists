@@ -11,6 +11,7 @@
 0.0.0.0 capaciousdrewreligion.com
 0.0.0.0 cdn.show-creative1.com
 0.0.0.0 sroguard.pro
+0.0.0.0 dash.pv-cdn.net
 
 ## Ads ##
 0.0.0.0	yt.moatads.com
