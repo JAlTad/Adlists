@@ -13,6 +13,8 @@
 0.0.0.0 sroguard.pro
 0.0.0.0 dash.pv-cdn.net
 0.0.0.0 nannyirrationalacquainted.com
+0.0.0.0 googleads.g.doubleclick.net
+
 
 ## Ads ##
 0.0.0.0	yt.moatads.com
