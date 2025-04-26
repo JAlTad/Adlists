@@ -10,6 +10,7 @@
 0.0.0.0 servicer.mgid.com
 0.0.0.0 capaciousdrewreligion.com
 0.0.0.0 cdn.show-creative1.com
+0.0.0.0 sroguard.pro
 
 ## Ads ##
 0.0.0.0	yt.moatads.com
