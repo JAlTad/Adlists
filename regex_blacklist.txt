@@ -1,3 +1,6 @@
+# https://discourse.pi-hole.net/t/collection-of-regex-for-blacklisting/43178/25
+# `-> @Smolka_J regex blocklist
+
 ((^)|(.))3lift.com
 ((^)|(.))adchoice.
 ((^)|(.))adchoice.*
