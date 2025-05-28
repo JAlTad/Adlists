@@ -1,23 +1,23 @@
 #
-[.]*ads.google.com					
-[.]*adservice.google.com			
-[.]*adyieldoptimizer.com			
-[.]*ampcid.google.com				
-[.]*bulevip.com						
-[.]*criteo.com						
-[.]*demand.supply					
-[.]*deporte-nolimit.com				
-[.]*fgoogle.com						
-[.]*fundingchoices.google.com		
-[.]*gumgum.com						
-[.]*marketingplatform.google.com	
-[.]*pagead-googlehosted.l.google.com
-[.]*pagead.l.google.com				
-[.]*pixel.facebook.com				
-[.]*sascdn.com						
-[.]*scorecardresearch.com			
-[.]*securepubads.g.doubleclick.net	
-[.]*smartclip.net					
+^(.*\.)*ads.google.com					
+^(.*\.)*adservice.google.com			
+^(.*\.)*adyieldoptimizer.com			
+^(.*\.)*ampcid.google.com				
+^(.*\.)*bulevip.com						
+^(.*\.)*criteo.com						
+^(.*\.)*demand.supply					
+^(.*\.)*deporte-nolimit.com				
+^(.*\.)*fgoogle.com						
+^(.*\.)*fundingchoices.google.com		
+^(.*\.)*gumgum.com						
+^(.*\.)*marketingplatform.google.com	
+^(.*\.)*pagead-googlehosted.l.google.com
+^(.*\.)*pagead.l.google.com				
+^(.*\.)*pixel.facebook.com				
+^(.*\.)*sascdn.com						
+^(.*\.)*scorecardresearch.com			
+^(.*\.)*securepubads.g.doubleclick.net	
+^(.*\.)*smartclip.net						
 				
 
 
