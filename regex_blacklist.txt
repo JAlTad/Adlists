@@ -1,4 +1,8 @@
 #
+.(\.|^)googleadservices\.com$
+.(\.|^)googleadservices\.net$
+.(\.|^)googleads\.g\.doubleclick\.net$
+
 ^(.*\.)*ads.google.com					
 ^(.*\.)*adservice.google.com			
 ^(.*\.)*adyieldoptimizer.com			
